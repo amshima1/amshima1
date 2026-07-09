@@ -1,16 +1,41 @@
-## Hi there 👋
+ 👋 Hi, I'm Victor Amshima
 
-<!--
-**amshima1/amshima1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Software Engineering Student | Frontend Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 200-level Software Engineering student at Miva Open University, passionate about building modern, responsive, and user-friendly web applications.
+
+ 🚀 About Me
+
+- 🎓 Software Engineering Student
+- 🌱 Currently learning HTML, CSS, JavaScript, Git & GitHub
+- 💻 Building real-world frontend projects
+- 🎯 Goal: Become a Full-Stack Software Engineer
+- 📍 Nigeria
+
+ 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Canva
+- Figma
+
+ 📂 Featured Projects
+
+ FLUX
+A modern fashion website with a clean and responsive design.
+
+ VANTAGE
+A business website showcasing modern UI and frontend development skills.
+
+ More projects coming soon...
+
+ 📫 Connect with Me
+
+GitHub: https://github.com/amshima1
+
+⭐ Thanks for visiting my profile!
