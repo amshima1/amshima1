@@ -20,15 +20,11 @@ I'm a 200-level Software Engineering student at Miva Open University, passionate
 ---
 ## 📊 GitHub Statistics
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amshima1&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amshima1&layout=compact&theme=tokyonight" height="170"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amshima1&theme=tokyonight"/>
-</p>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
