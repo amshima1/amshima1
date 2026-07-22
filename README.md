@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amshima1/amshima1/main/profile.png" width="180" alt="Victor Amshima"/>
+  <img src="https://raw.githubusercontent.com/amshima1/amshima1/main/profile.png" width="140"
+    " alt="Victor Amshima"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full-Stack+Developer;Java+Developer;Python+Developer;Backend+Developer;Open+Source+Learner;Always+Learning+New+Technologies" />
