@@ -28,11 +28,7 @@ I'm a 200-level Software Engineering student at Miva Open University, passionate
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amshima1&theme=tokyonight&row=1&column=3"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amshima1&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amshima1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
 </p>
 ## 🚀 About Me
 
