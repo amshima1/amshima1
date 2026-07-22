@@ -1,4 +1,16 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amshima1/amshima1/main/github-banner.png" alt="GitHub Banner" width="100%">
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amshima1/amshima1/main/profile.png" width="180" alt="Victor Amshima"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Victor Amshima</h1>
+
+<h3 align="center">
+Software Engineering Student • Full-Stack Developer • Java Developer • Python Developer • Backend Developer • Open Source Learner
+</h3>
 # 👋 Hi, I'm Victor Amshima
 
 ## Software Engineering Student | Full-Stack Developer | Java Developer | Backend Developer | Open Source Learner
