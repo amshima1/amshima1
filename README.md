@@ -1,4 +1,4 @@
-# Profile: Victor Amshima
+# Wellcome to my Profile  Victor Amshima
 
 I am a Software Engineer focused on constructing robust web platforms, high-concurrency backend architectures, and secure AI/LLM semantic processing layers. My core capabilities include engineering production-ready code, deploying automated workflows, and debugging complex system logic.
 
@@ -17,7 +17,7 @@ I am a Software Engineer focused on constructing robust web platforms, high-conc
 
 ## Contact Information
 
-*   **Professional Email:** victoramshima.dev@gmail.com
-*   **Secure Business Line:** +2347077978701
+*   **Email:** victoramshima.dev@gmail.com
+*   **Business Line:** +2347077978701
 *   **LinkedIn:** ://linkedin.com
 *   **X (Twitter):** ://x.com
