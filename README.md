@@ -19,5 +19,5 @@ I am a Software Engineer focused on constructing robust web platforms, high-conc
 
 *   **Email:** victoramshima.dev@gmail.com
 *   **Business Line:** +2347077978701
-*   **LinkedIn:** ://linkedin.com
+*   **https://www.linkedin.com/in/victor-amshima-411b50379
 *   **X (Twitter):** ://x.com
